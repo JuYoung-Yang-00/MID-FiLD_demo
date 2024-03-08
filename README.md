@@ -1,2 +1,2 @@
 # MID-FiLD_demo
-demo page for MID-FiLD: MIDI Dataset for Fine-Level Dynamics
+This is a demo page I built for MID-FiLD: MIDI Dataset for Fine-Level Dynamics
